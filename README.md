@@ -1,3 +1,8 @@
+The project has moved here:
+
+https://github.com/bioinfo-pf-curie/mpiSORT
+
+
 # Objective
 
 Sorting big NGS data file in the context of distributed cluster and high performance computing, Version 1.0.
